@@ -1,5 +1,7 @@
 # zalgo-generator
-generates zalgo text
+a revised version of `Zalgo Text Generator` by Tchouky
+
+[Original Source](http://www.eeemo.net)
 
 
 
