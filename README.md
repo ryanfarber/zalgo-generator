@@ -9,7 +9,7 @@ a revised version of `Zalgo Text Generator` by Tchouky
 var Zalgo = require("zalgo-generator");
 
 var zalgo = new Zalgo({
-	amount: "mini", // 1, 2, 3 or small, medium, large, etc 
+	amount: "small", // 1, 2, 3 or small, medium, large, etc 
 	up: true,
 	middle: true,
 	down: true,
