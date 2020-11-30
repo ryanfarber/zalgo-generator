@@ -15,10 +15,10 @@ var zalgo = new Zalgo({
 	down: true,
 })
 
-console.log(zalgo.generate("hello"))
+console.log(zalgo.generate("hello world"))
 
 
-// h̵̟̱̟̘͚̺̪ͤͩé̹̠̭͆͟l̩̰̬̰̒̃̎͘l̟̱̙̅ǫ̜̩ͫͦͭ̑
+// h̵̟̱̟̘͚̺̪ͤͩé̹̠̭͆͟l̩̰̬̰̒̃̎͘l̟̱̙̅ǫ̜̩ͫͦͭ̑ w̶̿ͫ̉̒͒o̴̦̙̝̤r̩͙̩̙̗͋̅̈̈́ͣͦͅl͓̪̘̱̣͓̂ͪd̓ͦ̋͐̓̏ͥ͏̠̻͔
 
 
 
